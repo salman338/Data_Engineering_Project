@@ -17,7 +17,7 @@ years and how herd mentality affected the vicious nature of their comments
 and viewpoints. Certain studies have been done in the past as well such as
 \She's Reddit: A source of statistically significant gendered interest infor-
 mation? where authors Mike Thelwall and Emma Stuart show gender
-dierences and discrimination by citing variations in interests and comments
+differences and discrimination by citing variations in interests and comments
 on Reddit. Furthermore, in \Linguistic Signals under Misinformation and
 Fact-Checking: Evidence from User Comments on Social Media" the authors
 Shan Jiang and Christo Wilson investigate linguistic signals[3] expressed in
